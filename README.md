@@ -1,16 +1,9 @@
-### console.log("Hi 👋🏾, I'm César");
-#### Fullstack Developer Web 👨🏾‍💻
-
-
-
-
-     
-![image](https://user-images.githubusercontent.com/68834511/141605107-47752d7b-d484-4a6c-a0fb-63fb02762209.png)
+                                        ###console.log("Hi 👋🏾, I'm César");
+#### ![image](https://user-images.githubusercontent.com/68834511/141606294-011792d4-6302-4113-a2a3-f04cae6cbdc4.png)
 
 
 <!-- 
 **Cesar-jo/Cesar-jo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 -->
 - 📍City || Country: Acapulco Mexico 🇲🇽 
